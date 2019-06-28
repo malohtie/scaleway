@@ -1,2 +1,4 @@
 # scaleway
-scaleway api wrapper
+scaleway instance api wrapper  
+
+DOCS : >> https://developers.scaleway.com/en/products/instance/api/  
