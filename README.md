@@ -1,3 +1,5 @@
+# this api is deprecated
+
 # scaleway
 scaleway instance api wrapper  
 
